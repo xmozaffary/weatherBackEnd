@@ -1,0 +1,9 @@
+2025-02-18 21:19:19.672021+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "select * from coordinates[*]:"; SQL statement:
+select * from coordinates: [42000-232]
+2025-02-18 21:19:36.761745+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "select * from coordinates[*]:"; SQL statement:
+select * from coordinates: [42000-232]
+2025-02-18 21:19:47.054312+01:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "select * from coordinates[*]:"; SQL statement:
+select * from coordinates: [42000-232]
