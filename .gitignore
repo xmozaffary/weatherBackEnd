@@ -34,5 +34,4 @@ build/
 
 
 # Spring Boot application properties
-/application.properties
-/application.yml
+.application.properties

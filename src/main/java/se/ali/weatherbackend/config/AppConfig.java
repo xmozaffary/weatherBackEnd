@@ -10,4 +10,5 @@ public class AppConfig {
     public WebClient.Builder wecClientBuilder(){
         return WebClient.builder();
     }
+    // comment
 }
